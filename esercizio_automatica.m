@@ -267,7 +267,7 @@ function [k,div]=calcolo_autovalori(k,I,autov)
            div=div+1;
        end
      end
-     k=j;
+     k=j+k;
 end
 %% allocazione dallo stato 
 function allocazione_stato(A,B)
