@@ -17,3 +17,6 @@ Scritto a scopo puramente didattico da me, per iniziare ad imparare ad usare il 
 Spero possa essere di aiuto a qualcuno per semplificare lo studio di Fondamenti Di Automatica
 
 Enjoy!
+
+
+Un ringraziamento speciale a samueleleli per aver contribuito e migliorato il codice
